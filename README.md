@@ -3,7 +3,7 @@
 A comprehensive MATLAB-based simulation framework for fixed-wing UAV autonomous flight, featuring cascaded PID control, Battery Management System (BMS) integration, meta-heuristic PID auto-tuning (GWO & PSO), and real-time 3D visualization dashboard.
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2025a-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 ## Features
 
@@ -205,9 +205,7 @@ The BMS couples battery state to control effectiveness via `k_avail = I_act / I_
 - Model Predictive Control (MPC) for constrained optimization
 - Hardware-in-the-Loop (HIL) integration for real flight controller testing
 
-## License
 
-MIT License — see [LICENSE](LICENSE) for details.
 
 ## References
 
